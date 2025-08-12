@@ -2,9 +2,6 @@
 
 A Simple web app to manage and sync tasks in real time. 
 
-## 🚀 Live Demo
-link:- https://arka-mahanty.github.io/index.html/
-
 ## Features
 - Add, edit, and delete tasks  
 - Real-time sync across devices  
