@@ -1,26 +1,25 @@
-# Task Management System
+# Distributed Task Sync System
 
-**A full-stack web app for real-time task collaboration**  
+A Simple web app to manage and sync tasks in real time. 
 
-## ✨ Key Features  
-- **User authentication** (login/signup)  
-- **Real-time updates** with conflict-free sync (CRDTs)  
-- **25% faster rendering** with optimized CSS animations  
-- Responsive design (works on mobile/desktop)  
+## 🚀 Live Demo
+link:- https://arka-mahanty.github.io/index.html/
 
-## 🛠️ Tech Stack  
-- Frontend: HTML5, CSS3, JavaScript  
-- Backend: Node.js (optional - add if used)  
-- Tools: Git, VS Code  
+## Features
+- Add, edit, and delete tasks  
+- Real-time sync across devices  
+- Clean and easy-to-use UI  
 
-## 🚀 Quick Start  
-1. Open `index.html` in any browser  
-2. **Demo Credentials**:  
-   - Email: `test@demo.com`  
-   - Password: `demo123`  
+## Results
+<img width="1820" height="844" alt="image" src="https://github.com/user-attachments/assets/1126495a-5a93-4664-912c-b3eaf0a78eb9" />
+<img width="1752" height="859" alt="image" src="https://github.com/user-attachments/assets/ae05c5f7-2a28-4af9-9817-b05520c9d9dd" />
+<img width="1740" height="773" alt="image" src="https://github.com/user-attachments/assets/58a81515-ad1a-4e06-acf0-846751777c06" />
+<img width="1778" height="511" alt="image" src="https://github.com/user-attachments/assets/3713c2aa-4464-4729-a8ee-c59c7355e059" />
+<img width="1789" height="810" alt="image" src="https://github.com/user-attachments/assets/483ec34a-f13c-487c-868a-fef922a20e9c" />
+<img width="1672" height="761" alt="image" src="https://github.com/user-attachments/assets/fbb543f6-cbfb-470c-85e2-0d9c12c8ed0d" />
+<img width="1788" height="692" alt="image" src="https://github.com/user-attachments/assets/640cfcb4-7b50-46c5-b0a5-94b6e59526c7" />
 
-## 📸 Screenshot  
-![Task Manager UI](/screenshots/ui.png)  
-![image](https://github.com/user-attachments/assets/de7c078d-281d-4741-b129-4f1ec4992aa3)
-![image](https://github.com/user-attachments/assets/24fb9ce2-7d57-4960-83c4-690e2d8e5174)
+## License
+MIT
+
 
